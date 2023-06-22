@@ -1,0 +1,11 @@
+{
+  "name": "mustafa",
+  "version": "1.0.0",
+  "description": "New Package for mustafa nodeJS training.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustafa",
+  "license": "ISC"
+}
